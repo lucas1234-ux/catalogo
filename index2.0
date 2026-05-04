@@ -5,12 +5,12 @@
         <link rel="stylesheet" href="estilo.css">
     </head>
     <body>
-        <div>Informacoes do filme
+        <div>Informaçoes do filme
         <h1>Homem de Ferro</h1>
-        <img scr="https://pin.it/20aazdSFr" width="300">
+        <img scr="https://pin.it/20aazdSFr"> 
 
         <h2>Dirigido por: Jon Favreau.</h2>
         <h3>Produzido por: Marvel Studios, </h3>
-        <h4>duracao: 2horas e 6min</h4>
+        <h4>duraçao: 2horas e 6min</h4>
     </body>
 </html>
